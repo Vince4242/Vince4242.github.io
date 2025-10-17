@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "chaw wen xuan likes belel"
+title: "Hello， I'm Chaw Wen Xuan"
 author_profile: true
 redirect_from: 
   - /about/
