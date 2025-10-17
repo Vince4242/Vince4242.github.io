@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Hello， I'm Chaw Wen Xuan"
-subtitle: "and I'm gonna murder you"
+title: "Hello, I'm Chaw Wen Xuan and I griddied in Ohio💔🗣️🔥🔥🔥🔥🔥"
+
 author_profile: true
 redirect_from: 
   - /about/
