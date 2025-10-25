@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image_1_4_1.png"
+  avatar           : "me.png"
   name             : "By Chaw Wen Xuan"
   pronouns         : "he/him"  
   bio              : "I am a student at Chung Ling Private High School who is currently in the Creative Electronics Club. I am from F1P and I have an interest in English."
