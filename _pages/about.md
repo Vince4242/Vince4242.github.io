@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am a student at Chung Ling Private High School who is currently in the Creative Electronics Club. I am from F1P and I have an interest in English."
+title: "I’m a web developer with a passion for building user-centric experiences. With a background in both design and coding, I bridge the gap between creative and functional solutions."
 
 author_profile: true
 redirect_from: 
